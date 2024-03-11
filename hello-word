@@ -1,0 +1,8 @@
+echo "# Graphic-art-by-seni" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/senigraphicart/Graphic-art-by-seni.git
+git push -u origin main
+# Hello, World!
